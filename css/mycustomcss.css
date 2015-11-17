@@ -1,7 +1,22 @@
-.navbar-inverse{
- background-color:rgba(0,0,0,0.8)
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    box-sizing: border-box;
 }
-.text-body{
-  margin-top:50px;
-  
+
+.myname{
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 40px;
+}
+body {
+    padding-top: 70px;
+}
+
+.under-construction{
+    font-size:100px;
+    color:red;
+    text-align: center;
 }
