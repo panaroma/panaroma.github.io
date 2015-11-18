@@ -11,17 +11,33 @@
     font-family: 'Cinzel Decorative', cursive;
     font-size: 35px;
     color: white;
+    margin-left:20px;
 }
 body {
     padding-top: 70px;
 }
 
 .under-construction{
-    font-size:100px;
+    font-size:50px;
     color:red;
     text-align: center;
 }
 .navbar-item-font{
     font-family: 'Cinzel Decorative', cursive;
     font-size: 19px;
+}
+.div-home{
+    background:url("resource/pictures/homeimg.jpg");
+    
+}
+
+.about-me{
+
+}
+
+.portfolio{
+
+}
+
+.contact{
 }
