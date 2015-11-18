@@ -7,9 +7,10 @@
     box-sizing: border-box;
 }
 
-.myname{
+.mybrand{
     font-family: 'Cinzel Decorative', cursive;
-    font-size: 40px;
+    font-size: 35px;
+    color: white;
 }
 body {
     padding-top: 70px;
@@ -19,4 +20,8 @@ body {
     font-size:100px;
     color:red;
     text-align: center;
+}
+.navbar-item-font{
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 19px;
 }
